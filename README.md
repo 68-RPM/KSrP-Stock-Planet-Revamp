@@ -1,53 +1,17 @@
-Techo's (Stock) Planet Revamp
+# KSrP-Stock-Planet-Revamp
+###### A fork of Techo's Stock Planet Revamp for the KSrP Project
 
+## Hard Depencencies
+- **Module Manager** *by Ialdabaoth, Sarbian et al.*
+- **Kopernicus** *by BryceSchroeder, Teknoman77 et al.*
+- **Mitchell-Netravali Filtered Heightmap** Kopernicus utility *by Niako*
 
-License: CC BY-NC-SA 4.0
-
----
-
-**Dependencies:**
-
-**Kopernicus**
- 			
-Download: https://github.com/Kopernicus/Kopernicus/releases
-
--
-
-**Kopernicus Expansion** 
-		
-Download: https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
-
--
-
-**Niako's Kopernicus Utilities** 
-	
-Download: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
-
----
-
-**Compatability:**
-
-Parallax
-
-Scatterer
-
-Blackracks Stock Volumetric Clouds
-
-And any other visual packs that do not edit stock planet textures.
-
----
-
-
-Credits:
-
-Adstri 
-
-Cloverdove 
-
-Luna 
-
-TinkerSaint 
-
-Raikappa
-
-Sushut
+## Credits
+- *Stock Planet Revamp* originally by:
+  - Techo 
+  - Adstri
+  - Cloverdove 
+  - Luna 
+  - TinkerSaint 
+  - Raikappa
+  - Sushut
